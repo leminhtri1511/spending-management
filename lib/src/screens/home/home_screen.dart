@@ -160,6 +160,7 @@ class _HomeScreenState extends State<HomeScreen> {
           : () {},
       child: SpendingItem(
         balanceVisibility: balanceVisibility,
+        spendingTypeVis: balanceVisibility,
         name: addedData.name,
         weekday: addedData.datetime.weekday,
         day: addedData.datetime.day,

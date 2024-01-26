@@ -44,7 +44,7 @@ class SpendingItem extends StatelessWidget {
     return ListTile(
       leading: ClipRRect(
         borderRadius: BorderRadius.circular(5),
-        child: Image.asset('images/${name}.png', height: 40),
+        child: Image.asset('assets/images/${name}.png', height: 40),
       ),
       title: Text(
         name ?? '',

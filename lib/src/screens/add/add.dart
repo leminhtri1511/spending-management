@@ -285,7 +285,7 @@ class _Add_ScreenState extends State<Add_Screen> {
                         children: [
                           Container(
                             width: 40,
-                            child: Image.asset('images/${e}.png'),
+                            child: Image.asset('assets/images/${e}.png'),
                           ),
                           SizedBox(width: 10),
                           Text(
@@ -303,7 +303,7 @@ class _Add_ScreenState extends State<Add_Screen> {
                     children: [
                       Container(
                         width: 42,
-                        child: Image.asset('images/${e}.png'),
+                        child: Image.asset('assets/images/${e}.png'),
                       ),
                       SizedBox(width: 5),
                       Text(e)
