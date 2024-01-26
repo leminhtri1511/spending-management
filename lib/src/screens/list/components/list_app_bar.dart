@@ -1,6 +1,7 @@
-import 'package:flutter/cupertino.dart';
+
 import 'package:flutter/material.dart';
-import 'package:managment/src/screens/add/add.dart';
+
+import '../../add/add.dart';
 
 class ListAppBar extends StatelessWidget {
   const ListAppBar({super.key});

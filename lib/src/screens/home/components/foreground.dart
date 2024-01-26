@@ -1,8 +1,7 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
-
 import 'package:flutter/material.dart';
-import 'package:managment/src/configs/app_colors.dart';
 
+import '../../../configs/app_colors.dart';
 import '../../../data/utility.dart';
 
 class Foreground extends StatefulWidget {

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:managment/src/configs/app_colors.dart';
-import 'package:managment/src/widgets/spending_item.dart';
 
+import '../../configs/app_colors.dart';
 import '../../data/model/add_data.dart';
 import '../../data/utility.dart';
 import '../../widgets/chart.dart';
+import '../../widgets/spending_item.dart';
 import '../home/components/list_header.dart';
 
 class Statistics extends StatefulWidget {

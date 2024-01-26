@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hive/hive.dart';
 import 'package:hive_flutter/adapters.dart';
-import 'package:managment/src/screens/list/components/list_app_bar.dart';
 
 import '../../data/model/add_data.dart';
 import '../../widgets/spending_item.dart';

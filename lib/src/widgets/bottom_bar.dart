@@ -1,9 +1,11 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:managment/src/screens/list/spending_list_screen.dart';
+
 
 import '../screens/add/add.dart';
+
 import '../screens/home/home_screen.dart';
+import '../screens/list/spending_list_screen.dart';
 import '../screens/static/statistics.dart';
 
 class BottomBar extends StatefulWidget {
